@@ -21,16 +21,28 @@ public class Player : MonoBehaviour
         
     }
 
-    void FixedUpdate()
+    private void FixedUpdate()
     {
         Run();
     }
 
-    void Run()
+    private void Run()
     {
         float moveController = CrossPlatformInputManager.GetAxis("Horizontal");
 
         Vector2 playerVelocity = new Vector2(moveController * runSpeed, myRigidbody2D.velocity.y);
         myRigidbody2D.velocity = playerVelocity;
+
+        if (moveController > 0)
+        {
+            transform.eulerAngles = new Vector3(0, 0, 0);
+        }
+
+        if(moveController < 0)
+        {
+            transform.eulerAngles = new Vector3(0, 180, 0);
+        }
     }
+
+       
 }

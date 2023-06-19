@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f9936ec473914ef4581c04104ea9600d
+guid: 87a0d7a0cebc8794f83c513f16d5f4f9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,127 +141,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Biker_run_0
+      name: Biker_run_attack_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 48
+        width: 40
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53ffa9b0e96ae81449ebb04a37d3b94b
-      internalID: 868924024
+      spriteID: c18fdbeed0c344247b5e1bb7fbddd654
+      internalID: -1178692691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Biker_run_1
+      name: Biker_run_attack_1
       rect:
         serializedVersion: 2
         x: 48
         y: 0
-        width: 48
-        height: 48
+        width: 40
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28585f998c6375a42b3325b882f210d6
-      internalID: -265196400
+      spriteID: 4253612ffb63cb84d812467d43dcbc51
+      internalID: 1690211534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Biker_run_2
+      name: Biker_run_attack_2
       rect:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 48
-        height: 48
+        width: 40
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43b8a3a3f62f1a245a081e2f0e8bdfb8
-      internalID: 127693698
+      spriteID: b7617306d452aa544997679ee6863b0e
+      internalID: 85922088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Biker_run_3
+      name: Biker_run_attack_3
       rect:
         serializedVersion: 2
         x: 144
         y: 0
-        width: 48
-        height: 48
+        width: 40
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09300acbaff68c34aae142b94b9ad964
-      internalID: -615723044
+      spriteID: 52324073d746ff3409b7158854e2d6ef
+      internalID: 924144777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Biker_run_4
+      name: Biker_run_attack_4
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 48
-        height: 48
+        width: 40
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd63b43d1f77eb940a67347ad9c6a2f5
-      internalID: -1839268264
+      spriteID: 9c1ab73f8dc64c04f9472869a21cb3e8
+      internalID: -2004760396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Biker_run_5
+      name: Biker_run_attack_5
       rect:
         serializedVersion: 2
         x: 240
         y: 0
-        width: 48
-        height: 48
+        width: 40
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87142fa7fe4e4c0458db1359ee125d2c
-      internalID: 2079652568
+      spriteID: 1777f7412d3dae7469d60e7d91079a7a
+      internalID: -1382644696
       vertices: []
       indices: 
       edges: []
@@ -277,12 +277,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Biker_run_1: -265196400
-      Biker_run_4: -1839268264
-      Biker_run_0: 868924024
-      Biker_run_2: 127693698
-      Biker_run_3: -615723044
-      Biker_run_5: 2079652568
+      Biker_run_attack_4: -2004760396
+      Biker_run_attack_2: 85922088
+      Biker_run_attack_1: 1690211534
+      Biker_run_attack_3: 924144777
+      Biker_run_attack_5: -1382644696
+      Biker_run_attack_0: -1178692691
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

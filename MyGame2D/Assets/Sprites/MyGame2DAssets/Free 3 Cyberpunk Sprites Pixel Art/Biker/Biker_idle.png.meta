@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8edff123a45f89d4384457a38bbcd0f0
+guid: 0b8c9ebf7bfb18344b271b2da250c8b8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,127 +141,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Biker_doublejump_0
+      name: Biker_idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ca368c05e833f04082485f7bd8c7f41
-      internalID: -159242888
+      spriteID: 50f3681295382d846955dd73d1e5c163
+      internalID: 1412912715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Biker_doublejump_1
+      name: Biker_idle_1
       rect:
         serializedVersion: 2
         x: 48
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d2141614a4d3e54e9b33c718bb5760f
-      internalID: -722521122
+      spriteID: 30d2abd998a43294ba2019bfb6c0ca12
+      internalID: -129915854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Biker_doublejump_2
+      name: Biker_idle_2
       rect:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c99b5adabc7de9b48b57b8247c4f092b
-      internalID: 684740256
+      spriteID: b743431886a1a594cb23f638cdbc3923
+      internalID: -396954697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Biker_doublejump_3
+      name: Biker_idle_3
       rect:
         serializedVersion: 2
         x: 144
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac25b2b02249aff4eadb1832172f1cca
-      internalID: -1810644857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Biker_doublejump_4
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4afc3e35f85d7342ab14bd01d358ffb
-      internalID: -1777661168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Biker_doublejump_5
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b21b6b0fb624adf41b70a08b4aaba061
-      internalID: 1239520421
+      spriteID: dc7f94b85fca86c41807a228899e8a20
+      internalID: 807050001
       vertices: []
       indices: 
       edges: []
@@ -277,12 +235,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Biker_doublejump_3: -1810644857
-      Biker_doublejump_2: 684740256
-      Biker_doublejump_4: -1777661168
-      Biker_doublejump_1: -722521122
-      Biker_doublejump_5: 1239520421
-      Biker_doublejump_0: -159242888
+      Biker_idle_2: -396954697
+      Biker_idle_1: -129915854
+      Biker_idle_0: 1412912715
+      Biker_idle_3: 807050001
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

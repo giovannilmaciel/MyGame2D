@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2a08b4022265b6341a822d941ee5ae9f
+guid: 1653d5cc1af0efd42b0913bfdedffd54
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,169 +141,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Punk_attack2_0
+      name: Biker_death_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbf77e6881dfd70408b20dd09501e0e1
-      internalID: 1275093414
+      spriteID: d0f69c40853e8144ba2cb1b88eb7714d
+      internalID: -736944522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack2_1
+      name: Biker_death_1
       rect:
         serializedVersion: 2
-        x: 48
+        x: 47
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b9ff9031b154464597ed30caf2e628f
-      internalID: -98790066
+      spriteID: 5fee0298c4f406e48b35c3243fd9c668
+      internalID: 1812352094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack2_2
+      name: Biker_death_2
       rect:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b19a304d00a57604083ee4e1eecec643
-      internalID: -465544615
+      spriteID: 3b1600a0baf73e744bde2b2e7ece6070
+      internalID: 466800831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack2_3
+      name: Biker_death_3
       rect:
         serializedVersion: 2
         x: 144
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4786ba726de5a9a4985a9e2378f8b3c5
-      internalID: -1094902752
+      spriteID: 6749c5db896dce94dbabd9ab28f41a41
+      internalID: -1798910859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack2_4
+      name: Biker_death_4
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2dfd14d6543305844be616f2e7a6f7c9
-      internalID: 762105045
+      spriteID: bbfbbc7eaf419b643b143997a048b569
+      internalID: 780892864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack2_5
+      name: Biker_death_5
       rect:
         serializedVersion: 2
         x: 240
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c517f7da619929e49abacb21e9c16c49
-      internalID: -1141089279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Punk_attack2_6
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5a228cca05caca48b25ab1da94b701a
-      internalID: 138436420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Punk_attack2_7
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fb8b61ff38de324e9ba2d5edd05796a
-      internalID: 820275841
+      spriteID: 7050a3c295b5d5d4fb6cd0ef33edba3c
+      internalID: -1928015278
       vertices: []
       indices: 
       edges: []
@@ -319,14 +277,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Punk_attack2_6: 138436420
-      Punk_attack2_7: 820275841
-      Punk_attack2_1: -98790066
-      Punk_attack2_5: -1141089279
-      Punk_attack2_2: -465544615
-      Punk_attack2_3: -1094902752
-      Punk_attack2_0: 1275093414
-      Punk_attack2_4: 762105045
+      Biker_death_3: -1798910859
+      Biker_death_4: 780892864
+      Biker_death_1: 1812352094
+      Biker_death_2: 466800831
+      Biker_death_5: -1928015278
+      Biker_death_0: -736944522
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

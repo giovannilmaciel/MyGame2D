@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1340d9870cc8c154b8e9485d505913ed
+guid: 5eb43f68817c2884d8a919a032e8320e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,169 +141,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Punk_attack3_0
+      name: Biker_climb_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64f0ed92d39397248924fc47c2812643
-      internalID: 1633537135
+      spriteID: 22b47a45dd500e741a962add3827791e
+      internalID: 311701201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack3_1
+      name: Biker_climb_1
       rect:
         serializedVersion: 2
         x: 48
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 157f686dc789d1b4aa819f08f7ebf2fa
-      internalID: 950512740
+      spriteID: e0a436b71103de24eaaff73fbfbfdc02
+      internalID: 234153258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack3_2
+      name: Biker_climb_2
       rect:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3601ef216980d44db3641e11eb6b722
-      internalID: -743524224
+      spriteID: b860ef58d8235104baeb5f5bf18aae25
+      internalID: -260289950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack3_3
+      name: Biker_climb_3
       rect:
         serializedVersion: 2
         x: 144
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e16b843649d7e84ab3ab733560828d7
-      internalID: -2139632408
+      spriteID: 5d8a446c15da2f14a810df0d15e3d749
+      internalID: 204676691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack3_4
+      name: Biker_climb_4
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfbf969b6636d0640899e6aad00160b9
-      internalID: -982963636
+      spriteID: a2397db938e577044a91edee9784d39f
+      internalID: 1162378124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_attack3_5
+      name: Biker_climb_5
       rect:
         serializedVersion: 2
         x: 240
         y: 0
-        width: 48
-        height: 48
+        width: 28
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b64f43c7476d7f049b3afa3689836b74
-      internalID: 1888058422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Punk_attack3_6
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1636251381d443e4f92662a4fb20db91
-      internalID: -491032919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Punk_attack3_7
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac6bd17c9cfbf274eaf9aa726e3264fc
-      internalID: 787361995
+      spriteID: 637dfcd230758454bb98109e31df238d
+      internalID: 930230057
       vertices: []
       indices: 
       edges: []
@@ -319,14 +277,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Punk_attack3_2: -743524224
-      Punk_attack3_3: -2139632408
-      Punk_attack3_1: 950512740
-      Punk_attack3_0: 1633537135
-      Punk_attack3_5: 1888058422
-      Punk_attack3_6: -491032919
-      Punk_attack3_7: 787361995
-      Punk_attack3_4: -982963636
+      Biker_climb_0: 311701201
+      Biker_climb_4: 1162378124
+      Biker_climb_2: -260289950
+      Biker_climb_1: 234153258
+      Biker_climb_5: 930230057
+      Biker_climb_3: 204676691
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

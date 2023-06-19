@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bf4eee8688f58b64d90d0b65061c50bd
+guid: 83c61ec6db9f6b34ca7a69a8fc0e9f75
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,85 +141,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Punk_jump_0
+      name: Biker_jump_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37c7d8568fa930c41b91ef7f69f46615
-      internalID: 1446869052
+      spriteID: bbf52bcad3dad41438dc3eac12c0aed3
+      internalID: -491273141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_jump_1
+      name: Biker_jump_1
       rect:
         serializedVersion: 2
         x: 48
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f1c474bd77b67d49a3bc1ecfe7d733e
-      internalID: -1766425511
+      spriteID: cfa1acd2a4f086249a3c96d079168b92
+      internalID: 861103035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_jump_2
+      name: Biker_jump_2
       rect:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fc5adbcfffd4ea4eb894df6db6db024
-      internalID: -1868313732
+      spriteID: a664e13bff5925e42abe9ecd9d47e905
+      internalID: 980588631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Punk_jump_3
+      name: Biker_jump_3
       rect:
         serializedVersion: 2
         x: 144
         y: 0
-        width: 48
-        height: 48
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00d897e0d9ff212468dcce3059b6453d
-      internalID: 1059986662
+      spriteID: af84caa40a79ab24092c436dd50433d6
+      internalID: -368019022
       vertices: []
       indices: 
       edges: []
@@ -235,10 +235,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Punk_jump_2: -1868313732
-      Punk_jump_0: 1446869052
-      Punk_jump_1: -1766425511
-      Punk_jump_3: 1059986662
+      Biker_jump_1: 861103035
+      Biker_jump_3: -368019022
+      Biker_jump_2: 980588631
+      Biker_jump_0: -491273141
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
