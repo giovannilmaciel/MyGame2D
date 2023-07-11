@@ -329,9 +329,11 @@ GameObject:
   - component: {fileID: 527109105}
   - component: {fileID: 527109104}
   - component: {fileID: 527109106}
+  - component: {fileID: 527109109}
+  - component: {fileID: 527109110}
   - component: {fileID: 527109107}
   - component: {fileID: 527109108}
-  - component: {fileID: 527109109}
+  - component: {fileID: 527109111}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -440,7 +442,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa4339084a2f49c4f9959076a3514404, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 500
+  jumpForce: 400
   groundCheck: {fileID: 1585679659}
   walkSpeed: 5
   groundRadius: 0.1
@@ -476,6 +478,38 @@ CapsuleCollider2D:
   m_Offset: {x: 0.019919932, y: -0.06224996}
   m_Size: {x: 0.51818025, y: 1.0005001}
   m_Direction: 0
+--- !u!95 &527109110
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527109103}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 84c3d6e30cfdac54296f565bb26a74fc, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+--- !u!114 &527109111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527109103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa513ba9dfb0efd4b85a1191994c9331, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1585679658
 GameObject:
   m_ObjectHideFlags: 0
